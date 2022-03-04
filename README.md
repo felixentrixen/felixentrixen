@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @felixentrixen
 - 👀 I’m interested in coding, chess and painting
-- 🌱 I’m currently learning wabcom
+- 🌱 I’m currently learning wacom
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me HERE
 
